@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+python-jose
+passlib[bcrypt]
+pydantic
+pydantic-settings
+python-multipart
+email-validator
+httpx
